@@ -454,6 +454,26 @@ def create_singapore_export_data(total_impact):
 def main():
     """Main dashboard application"""
     
+    # Sidebar navigation
+    st.sidebar.markdown("## 🧭 Quick Navigation")
+    
+    st.sidebar.write("🔬 TECHNOLOGY TABS:")
+    st.sidebar.text("📊 IP - Patent portfolio")
+    st.sidebar.text("🌱 CO₂ - Carbon credits")
+    st.sidebar.text("🔋 Tech - Battery optimization")
+    st.sidebar.text("🔄 Swap - Station monitoring")
+    st.sidebar.text("💰 Value - Asset pricing")
+    st.sidebar.text("🌍 Data - Global intelligence")
+    st.sidebar.text("⚡ Na-Ion - Sodium chemistry")
+    
+    st.sidebar.write("")
+    st.sidebar.write("💼 CASE STUDY TABS:")
+    st.sidebar.text("📈 City - Green City ($32.4M)")
+    st.sidebar.text("🚜 Farm - Nigeria ($3.6M)")
+    st.sidebar.text("🏝️ Island - Philippines ($12.6M)")
+    st.sidebar.text("🏜️ Saudi - Jeeny ($712M)")
+    st.sidebar.text("🦁 SG - Singapore ($11.4B)")
+    
     # Header
     st.markdown('<h1 style="color: #1f4e79; text-align: center; font-size: 3rem; margin-bottom: 1rem;">⚡ Leo Climate Intelligence Stack</h1>', unsafe_allow_html=True)
     st.markdown('<h3 style="text-align: center; color: #666; margin-bottom: 2rem;">Professional IP Portfolio & Business Model Demonstration</h3>', unsafe_allow_html=True)
@@ -461,12 +481,20 @@ def main():
     # Initialize LCIS
     lcis = LEOClimateStack()
     
-    # Main navigation tabs
+    # Quick Dashboard Summary
+    st.markdown("""
+    <div style="background: linear-gradient(135deg, #0ea5e9 0%, #3b82f6 100%); padding: 15px; border-radius: 10px; margin-bottom: 20px; text-align: center;">
+        <h4 style="color: white; margin: 0;">🎯 Dashboard Overview: 12 Interactive Tabs | 6 Patent Technologies | 5 Global Case Studies</h4>
+        <p style="color: #e0f2fe; margin: 5px 0 0 0;">Demonstrating how Leo Electric's IP creates measurable wealth across different markets</p>
+    </div>
+    """, unsafe_allow_html=True)
+    
+    # Create tabs with very short names for better navigation
     tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12 = st.tabs([
-        "📊 Portfolio Overview", "🌱 Carbon Credits", "🔋 Battery Optimization", 
-        "🔄 Swap Stations", "💰 Asset Valuation", "🌍 Global Data", 
-        "⚡ Sodium-Ion Tech", "📈 Green City Case Study", "🚜 Nigeria Farmers Case Study",
-        "🏝️ Philippines Microgrids", "🏜️ Saudi Arabia Jeeny", "🦁 Singapore Smart City"
+        "📊 IP", "🌱 CO₂", "🔋 Tech", 
+        "🔄 Swap", "💰 Value", "🌍 Data", 
+        "⚡ Na-Ion", "📈 City", "🚜 Farm",
+        "🏝️ Island", "🏜️ Saudi", "🦁 SG"
     ])
     
     # Tab 1: Portfolio Overview
