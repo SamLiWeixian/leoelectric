@@ -1,0 +1,3257 @@
+{
+  "carbon_credits": [
+    {
+      "energy_delivered": 10,
+      "avoided_emissions_kg": 2.8,
+      "base_credits": 0.9200000000000002,
+      "verified_credits": 0.8652600000000001,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.07,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "2W"
+    },
+    {
+      "energy_delivered": 10,
+      "avoided_emissions_kg": 2.8,
+      "base_credits": 0.9200000000000002,
+      "verified_credits": 0.8652600000000001,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.07,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "3W"
+    },
+    {
+      "energy_delivered": 10,
+      "avoided_emissions_kg": 2.8,
+      "base_credits": 0.9200000000000002,
+      "verified_credits": 0.8652600000000001,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.07,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "Light"
+    },
+    {
+      "energy_delivered": 25,
+      "avoided_emissions_kg": 7.0,
+      "base_credits": 2.3000000000000003,
+      "verified_credits": 2.1631500000000004,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.175,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "2W"
+    },
+    {
+      "energy_delivered": 25,
+      "avoided_emissions_kg": 7.0,
+      "base_credits": 2.3000000000000003,
+      "verified_credits": 2.1631500000000004,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.175,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "3W"
+    },
+    {
+      "energy_delivered": 25,
+      "avoided_emissions_kg": 7.0,
+      "base_credits": 2.3000000000000003,
+      "verified_credits": 2.1631500000000004,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.175,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "Light"
+    },
+    {
+      "energy_delivered": 50,
+      "avoided_emissions_kg": 14.0,
+      "base_credits": 4.6000000000000005,
+      "verified_credits": 4.326300000000001,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.35,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "2W"
+    },
+    {
+      "energy_delivered": 50,
+      "avoided_emissions_kg": 14.0,
+      "base_credits": 4.6000000000000005,
+      "verified_credits": 4.326300000000001,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.35,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "3W"
+    },
+    {
+      "energy_delivered": 50,
+      "avoided_emissions_kg": 14.0,
+      "base_credits": 4.6000000000000005,
+      "verified_credits": 4.326300000000001,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.35,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "Light"
+    },
+    {
+      "energy_delivered": 100,
+      "avoided_emissions_kg": 28.0,
+      "base_credits": 9.200000000000001,
+      "verified_credits": 8.652600000000001,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.7,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "2W"
+    },
+    {
+      "energy_delivered": 100,
+      "avoided_emissions_kg": 28.0,
+      "base_credits": 9.200000000000001,
+      "verified_credits": 8.652600000000001,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.7,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "3W"
+    },
+    {
+      "energy_delivered": 100,
+      "avoided_emissions_kg": 28.0,
+      "base_credits": 9.200000000000001,
+      "verified_credits": 8.652600000000001,
+      "quality_factor": 0.9405,
+      "carbon_value_usd": 0.7,
+      "credit_rate": 0.08652600000000002,
+      "vehicle_type": "Light"
+    }
+  ],
+  "degradation_charging": [
+    {
+      "optimal_charging_rate": 0.576,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 0.6,
+      "temperature": 15,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.576,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 0.6,
+      "temperature": 15,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.576,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 0.6,
+      "temperature": 15,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.576,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 0.6,
+      "temperature": 15,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.48,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 0.6,
+      "temperature": 25,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.48,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 0.6,
+      "temperature": 25,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.48,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 0.6,
+      "temperature": 25,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.48,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 0.6,
+      "temperature": 25,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.384,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.07,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0,
+      "soh": 0.6,
+      "temperature": 35,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.384,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.07050000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0005,
+      "soh": 0.6,
+      "temperature": 35,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.384,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.07100000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.001,
+      "soh": 0.6,
+      "temperature": 35,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.384,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.07200000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.002,
+      "soh": 0.6,
+      "temperature": 35,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.288,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.08,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0,
+      "soh": 0.6,
+      "temperature": 45,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.288,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.0805,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0005,
+      "soh": 0.6,
+      "temperature": 45,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.288,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.081,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.001,
+      "soh": 0.6,
+      "temperature": 45,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.288,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.828,
+      "current_soh": 0.6,
+      "projected_soh_1yr": 0.6,
+      "degradation_rate": 0.082,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.002,
+      "soh": 0.6,
+      "temperature": 45,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.6719999999999999,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6399999999999999,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 0.7,
+      "temperature": 15,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.6719999999999999,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6395,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 0.7,
+      "temperature": 15,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.6719999999999999,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.639,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 0.7,
+      "temperature": 15,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.6719999999999999,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6379999999999999,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 0.7,
+      "temperature": 15,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.5599999999999999,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6399999999999999,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 0.7,
+      "temperature": 25,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.5599999999999999,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6395,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 0.7,
+      "temperature": 25,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.5599999999999999,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.639,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 0.7,
+      "temperature": 25,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.5599999999999999,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6379999999999999,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 0.7,
+      "temperature": 25,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.44799999999999995,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6299999999999999,
+      "degradation_rate": 0.07,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0,
+      "soh": 0.7,
+      "temperature": 35,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.44799999999999995,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6295,
+      "degradation_rate": 0.07050000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0005,
+      "soh": 0.7,
+      "temperature": 35,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.44799999999999995,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.629,
+      "degradation_rate": 0.07100000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.001,
+      "soh": 0.7,
+      "temperature": 35,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.44799999999999995,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6279999999999999,
+      "degradation_rate": 0.07200000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.002,
+      "soh": 0.7,
+      "temperature": 35,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.33599999999999997,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.62,
+      "degradation_rate": 0.08,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0,
+      "soh": 0.7,
+      "temperature": 45,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.33599999999999997,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.6194999999999999,
+      "degradation_rate": 0.0805,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0005,
+      "soh": 0.7,
+      "temperature": 45,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.33599999999999997,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.619,
+      "degradation_rate": 0.081,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.001,
+      "soh": 0.7,
+      "temperature": 45,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.33599999999999997,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.874,
+      "current_soh": 0.7,
+      "projected_soh_1yr": 0.618,
+      "degradation_rate": 0.082,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.002,
+      "soh": 0.7,
+      "temperature": 45,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.7680000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.74,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 0.8,
+      "temperature": 15,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.7680000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7395,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 0.8,
+      "temperature": 15,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.7680000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7390000000000001,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 0.8,
+      "temperature": 15,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.7680000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.738,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 0.8,
+      "temperature": 15,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.6400000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.74,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 0.8,
+      "temperature": 25,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.6400000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7395,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 0.8,
+      "temperature": 25,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.6400000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7390000000000001,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 0.8,
+      "temperature": 25,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.6400000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.738,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 0.8,
+      "temperature": 25,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.5120000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.73,
+      "degradation_rate": 0.07,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0,
+      "soh": 0.8,
+      "temperature": 35,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.5120000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7295,
+      "degradation_rate": 0.07050000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0005,
+      "soh": 0.8,
+      "temperature": 35,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.5120000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7290000000000001,
+      "degradation_rate": 0.07100000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.001,
+      "soh": 0.8,
+      "temperature": 35,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.5120000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.728,
+      "degradation_rate": 0.07200000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.002,
+      "soh": 0.8,
+      "temperature": 35,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.38400000000000006,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7200000000000001,
+      "degradation_rate": 0.08,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0,
+      "soh": 0.8,
+      "temperature": 45,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.38400000000000006,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7195,
+      "degradation_rate": 0.0805,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0005,
+      "soh": 0.8,
+      "temperature": 45,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.38400000000000006,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7190000000000001,
+      "degradation_rate": 0.081,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.001,
+      "soh": 0.8,
+      "temperature": 45,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.38400000000000006,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.92,
+      "current_soh": 0.8,
+      "projected_soh_1yr": 0.7180000000000001,
+      "degradation_rate": 0.082,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.002,
+      "soh": 0.8,
+      "temperature": 45,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.8640000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8400000000000001,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 0.9,
+      "temperature": 15,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.8640000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8395,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 0.9,
+      "temperature": 15,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.8640000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.839,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 0.9,
+      "temperature": 15,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.8640000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8380000000000001,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 0.9,
+      "temperature": 15,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.7200000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8400000000000001,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 0.9,
+      "temperature": 25,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.7200000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8395,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 0.9,
+      "temperature": 25,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.7200000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.839,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 0.9,
+      "temperature": 25,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.7200000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8380000000000001,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 0.9,
+      "temperature": 25,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.5760000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8300000000000001,
+      "degradation_rate": 0.07,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0,
+      "soh": 0.9,
+      "temperature": 35,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.5760000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8295,
+      "degradation_rate": 0.07050000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0005,
+      "soh": 0.9,
+      "temperature": 35,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.5760000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.829,
+      "degradation_rate": 0.07100000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.001,
+      "soh": 0.9,
+      "temperature": 35,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.5760000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8280000000000001,
+      "degradation_rate": 0.07200000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.002,
+      "soh": 0.9,
+      "temperature": 35,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.43200000000000005,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8200000000000001,
+      "degradation_rate": 0.08,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0,
+      "soh": 0.9,
+      "temperature": 45,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.43200000000000005,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8195,
+      "degradation_rate": 0.0805,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0005,
+      "soh": 0.9,
+      "temperature": 45,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.43200000000000005,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8190000000000001,
+      "degradation_rate": 0.081,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.001,
+      "soh": 0.9,
+      "temperature": 45,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.43200000000000005,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 0.9660000000000001,
+      "current_soh": 0.9,
+      "projected_soh_1yr": 0.8180000000000001,
+      "degradation_rate": 0.082,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.002,
+      "soh": 0.9,
+      "temperature": 45,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.96,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.94,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 1.0,
+      "temperature": 15,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.96,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.9395,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 1.0,
+      "temperature": 15,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.96,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.9390000000000001,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 1.0,
+      "temperature": 15,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.96,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.938,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 1.0,
+      "temperature": 15,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.8,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.94,
+      "degradation_rate": 0.06,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0,
+      "soh": 1.0,
+      "temperature": 25,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.8,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.9395,
+      "degradation_rate": 0.0605,
+      "temperature_impact": 0,
+      "cycle_impact": 0.0005,
+      "soh": 1.0,
+      "temperature": 25,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.8,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.9390000000000001,
+      "degradation_rate": 0.061,
+      "temperature_impact": 0,
+      "cycle_impact": 0.001,
+      "soh": 1.0,
+      "temperature": 25,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.8,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.938,
+      "degradation_rate": 0.062,
+      "temperature_impact": 0,
+      "cycle_impact": 0.002,
+      "soh": 1.0,
+      "temperature": 25,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.6400000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.9299999999999999,
+      "degradation_rate": 0.07,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0,
+      "soh": 1.0,
+      "temperature": 35,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.6400000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.9295,
+      "degradation_rate": 0.07050000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.0005,
+      "soh": 1.0,
+      "temperature": 35,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.6400000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.929,
+      "degradation_rate": 0.07100000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.001,
+      "soh": 1.0,
+      "temperature": 35,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.6400000000000001,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.9279999999999999,
+      "degradation_rate": 0.07200000000000001,
+      "temperature_impact": 0.01,
+      "cycle_impact": 0.002,
+      "soh": 1.0,
+      "temperature": 35,
+      "cycles": 2000
+    },
+    {
+      "optimal_charging_rate": 0.48,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.92,
+      "degradation_rate": 0.08,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0,
+      "soh": 1.0,
+      "temperature": 45,
+      "cycles": 0
+    },
+    {
+      "optimal_charging_rate": 0.48,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.9195,
+      "degradation_rate": 0.0805,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.0005,
+      "soh": 1.0,
+      "temperature": 45,
+      "cycles": 500
+    },
+    {
+      "optimal_charging_rate": 0.48,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.919,
+      "degradation_rate": 0.081,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.001,
+      "soh": 1.0,
+      "temperature": 45,
+      "cycles": 1000
+    },
+    {
+      "optimal_charging_rate": 0.48,
+      "energy_delivered": 12.0,
+      "credit_yield_multiplier": 1.0120000000000002,
+      "current_soh": 1.0,
+      "projected_soh_1yr": 0.918,
+      "degradation_rate": 0.082,
+      "temperature_impact": 0.02,
+      "cycle_impact": 0.002,
+      "soh": 1.0,
+      "temperature": 45,
+      "cycles": 2000
+    }
+  ],
+  "swap_integrity": [
+    {
+      "integrity_score": 0.051562500000000004,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.89,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.01,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.051562500000000004,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.89,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.01,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.051562500000000004,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9624203553322382,
+        1
+      ],
+      "margin_of_error": 0.027579644667761777,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.01,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.051562500000000004,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9704982462327102,
+        1
+      ],
+      "margin_of_error": 0.01950175376728976,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.01,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.051041666666666666,
+      "quality_gate_score": 0.9800000000000001,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8800000000000001,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.02,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.051041666666666666,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.88,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.02,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.051041666666666666,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9411939798484823,
+        1
+      ],
+      "margin_of_error": 0.03880602015151774,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.02,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.051041666666666666,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.95256,
+        1
+      ],
+      "margin_of_error": 0.02744000000000001,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.02,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.049479166666666664,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.85,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.05,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.049479166666666664,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.85,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.05,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.049479166666666664,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8895887427709039,
+        1
+      ],
+      "margin_of_error": 0.060411257229095995,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.05,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.049479166666666664,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9072827903533014,
+        0.9927172096466985
+      ],
+      "margin_of_error": 0.04271720964669862,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.05,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.046875,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.1,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.046875,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.1,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.046875,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.816844242532462,
+        0.983155757467538
+      ],
+      "margin_of_error": 0.08315575746753798,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.1,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.046875,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.052083333333333336,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8412000000000001,
+        0.9588
+      ],
+      "margin_of_error": 0.0588,
+      "daily_capacity_utilization": 0.052083333333333336,
+      "swaps_per_day": 50,
+      "error_rate": 0.1,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.10312500000000001,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.89,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.01,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.10312500000000001,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.89,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.01,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.10312500000000001,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9624203553322382,
+        1
+      ],
+      "margin_of_error": 0.027579644667761777,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.01,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.10312500000000001,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9704982462327102,
+        1
+      ],
+      "margin_of_error": 0.01950175376728976,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.01,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.10208333333333333,
+      "quality_gate_score": 0.9800000000000001,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8800000000000001,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.02,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.10208333333333333,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.88,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.02,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.10208333333333333,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9411939798484823,
+        1
+      ],
+      "margin_of_error": 0.03880602015151774,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.02,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.10208333333333333,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.95256,
+        1
+      ],
+      "margin_of_error": 0.02744000000000001,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.02,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.09895833333333333,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.85,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.05,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.09895833333333333,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.85,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.05,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.09895833333333333,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8895887427709039,
+        1
+      ],
+      "margin_of_error": 0.060411257229095995,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.05,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.09895833333333333,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9072827903533014,
+        0.9927172096466985
+      ],
+      "margin_of_error": 0.04271720964669862,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.05,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.09375,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.1,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.09375,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.1,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.09375,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.816844242532462,
+        0.983155757467538
+      ],
+      "margin_of_error": 0.08315575746753798,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.1,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.09375,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.10416666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8412000000000001,
+        0.9588
+      ],
+      "margin_of_error": 0.0588,
+      "daily_capacity_utilization": 0.10416666666666667,
+      "swaps_per_day": 100,
+      "error_rate": 0.1,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.10312500000000001,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 0.5,
+      "confidence_interval": [
+        0.89,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.01,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.20625000000000002,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.89,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.01,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.20625000000000002,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9624203553322382,
+        1
+      ],
+      "margin_of_error": 0.027579644667761777,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.01,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.20625000000000002,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9704982462327102,
+        1
+      ],
+      "margin_of_error": 0.01950175376728976,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.01,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.10208333333333333,
+      "quality_gate_score": 0.9800000000000001,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 0.5,
+      "confidence_interval": [
+        0.8800000000000001,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.02,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.20416666666666666,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.88,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.02,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.20416666666666666,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9411939798484823,
+        1
+      ],
+      "margin_of_error": 0.03880602015151774,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.02,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.20416666666666666,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.95256,
+        1
+      ],
+      "margin_of_error": 0.02744000000000001,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.02,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.09895833333333333,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 0.5,
+      "confidence_interval": [
+        0.85,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.05,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.19791666666666666,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.85,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.05,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.19791666666666666,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8895887427709039,
+        1
+      ],
+      "margin_of_error": 0.060411257229095995,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.05,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.19791666666666666,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9072827903533014,
+        0.9927172096466985
+      ],
+      "margin_of_error": 0.04271720964669862,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.05,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.09375,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 0.5,
+      "confidence_interval": [
+        0.8,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.1,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.1875,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.1,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.1875,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.816844242532462,
+        0.983155757467538
+      ],
+      "margin_of_error": 0.08315575746753798,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.1,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.1875,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.20833333333333334,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8412000000000001,
+        0.9588
+      ],
+      "margin_of_error": 0.0588,
+      "daily_capacity_utilization": 0.20833333333333334,
+      "swaps_per_day": 200,
+      "error_rate": 0.1,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.10312500000000001,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 0.25,
+      "confidence_interval": [
+        0.89,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.01,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.2578125,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 0.625,
+      "confidence_interval": [
+        0.89,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.01,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.41250000000000003,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9624203553322382,
+        1
+      ],
+      "margin_of_error": 0.027579644667761777,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.01,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.41250000000000003,
+      "quality_gate_score": 0.99,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9704982462327102,
+        1
+      ],
+      "margin_of_error": 0.01950175376728976,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.01,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.10208333333333333,
+      "quality_gate_score": 0.9800000000000001,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 0.25,
+      "confidence_interval": [
+        0.8800000000000001,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.02,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.25520833333333337,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 0.625,
+      "confidence_interval": [
+        0.88,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.02,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.4083333333333333,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9411939798484823,
+        1
+      ],
+      "margin_of_error": 0.03880602015151774,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.02,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.4083333333333333,
+      "quality_gate_score": 0.98,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.95256,
+        1
+      ],
+      "margin_of_error": 0.02744000000000001,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.02,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.09895833333333333,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 0.25,
+      "confidence_interval": [
+        0.85,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.05,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.24739583333333334,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 0.625,
+      "confidence_interval": [
+        0.85,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.05,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.3958333333333333,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8895887427709039,
+        1
+      ],
+      "margin_of_error": 0.060411257229095995,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.05,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.3958333333333333,
+      "quality_gate_score": 0.95,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.9072827903533014,
+        0.9927172096466985
+      ],
+      "margin_of_error": 0.04271720964669862,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.05,
+      "verification_samples": 100
+    },
+    {
+      "integrity_score": 0.09375,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 0.25,
+      "confidence_interval": [
+        0.8,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.1,
+      "verification_samples": 10
+    },
+    {
+      "integrity_score": 0.234375,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 0.625,
+      "confidence_interval": [
+        0.8,
+        1
+      ],
+      "margin_of_error": 0.1,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.1,
+      "verification_samples": 25
+    },
+    {
+      "integrity_score": 0.375,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.816844242532462,
+        0.983155757467538
+      ],
+      "margin_of_error": 0.08315575746753798,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.1,
+      "verification_samples": 50
+    },
+    {
+      "integrity_score": 0.375,
+      "quality_gate_score": 0.9,
+      "throughput_efficiency": 0.4166666666666667,
+      "verification_confidence": 1.0,
+      "confidence_interval": [
+        0.8412000000000001,
+        0.9588
+      ],
+      "margin_of_error": 0.0588,
+      "daily_capacity_utilization": 0.4166666666666667,
+      "swaps_per_day": 400,
+      "error_rate": 0.1,
+      "verification_samples": 100
+    }
+  ],
+  "blended_valuation": [
+    {
+      "total_portfolio_value": 85226.72269339144,
+      "risk_adjusted_value": 85226.72269339144,
+      "blended_yield": 0.05881590852677216,
+      "correlation_adjustment": 1.109861228866811,
+      "sharpe_ratio": 0.3532928681953287,
+      "diversification_score": 0.10986122886681104,
+      "average_risk_score": 0.6861225456773524,
+      "liquidity_score": 0.7647464707721608,
+      "num_assets": 3,
+      "portfolio_data": [
+        {
+          "id": "ASSET_001",
+          "type": "Fleet Vehicle",
+          "value": 218543.0534813131,
+          "weight": 0.4170267817872125,
+          "risk_score": 0.6391963650868431,
+          "liquidity_factor": 0.8095304694689628,
+          "expected_yield": 0.04404167763981928
+        },
+        {
+          "id": "ASSET_002",
+          "type": "Charging Station",
+          "value": 120197.5341512912,
+          "weight": 0.16042842599838875,
+          "risk_score": 0.7197056874649612,
+          "liquidity_factor": 0.8103902541101231,
+          "expected_yield": 0.09372653200164409
+        },
+        {
+          "id": "ASSET_003",
+          "type": "Battery Storage",
+          "value": 59263.0224331111,
+          "weight": 0.42254479221439883,
+          "risk_score": 0.6994655844802531,
+          "liquidity_factor": 0.6743186887373966,
+          "expected_yield": 0.046364247048639055
+        }
+      ]
+    },
+    {
+      "total_portfolio_value": 101296.85020095891,
+      "risk_adjusted_value": 101296.85020095891,
+      "blended_yield": 0.06485581801979291,
+      "correlation_adjustment": 1.16094379124341,
+      "sharpe_ratio": 0.3724315711003266,
+      "diversification_score": 0.16094379124340996,
+      "average_risk_score": 0.5897016570265062,
+      "liquidity_score": 0.754729362798803,
+      "num_assets": 5,
+      "portfolio_data": [
+        {
+          "id": "ASSET_001",
+          "type": "Fleet Vehicle",
+          "value": 218543.0534813131,
+          "weight": 0.29471424021081044,
+          "risk_score": 0.6391963650868431,
+          "liquidity_factor": 0.8095304694689628,
+          "expected_yield": 0.04404167763981928
+        },
+        {
+          "id": "ASSET_002",
+          "type": "Charging Station",
+          "value": 120197.5341512912,
+          "weight": 0.1133753124288699,
+          "risk_score": 0.7197056874649612,
+          "liquidity_factor": 0.8103902541101231,
+          "expected_yield": 0.09372653200164409
+        },
+        {
+          "id": "ASSET_003",
+          "type": "Battery Storage",
+          "value": 59263.0224331111,
+          "weight": 0.2986138368831252,
+          "risk_score": 0.6994655844802531,
+          "liquidity_factor": 0.6743186887373966,
+          "expected_yield": 0.046364247048639055
+        },
+        {
+          "id": "ASSET_004",
+          "type": "Carbon Credits",
+          "value": 132532.02943404522,
+          "weight": 0.16338271466131457,
+          "risk_score": 0.5148538589793428,
+          "liquidity_factor": 0.7511807565247405,
+          "expected_yield": 0.056210622617823766
+        },
+        {
+          "id": "ASSET_005",
+          "type": "Infrastructure",
+          "value": 325333.80262507073,
+          "weight": 0.12991389581587998,
+          "risk_score": 0.3752867891211309,
+          "liquidity_factor": 0.7282266451527921,
+          "expected_yield": 0.07104629857953323
+        }
+      ]
+    },
+    {
+      "total_portfolio_value": 159020.35066121505,
+      "risk_adjusted_value": 159020.35066121505,
+      "blended_yield": 0.07242659401581254,
+      "correlation_adjustment": 1.2302585092994045,
+      "sharpe_ratio": 0.392473578890653,
+      "diversification_score": 0.2302585092994045,
+      "average_risk_score": 0.4687357097751514,
+      "liquidity_score": 0.8062194148911374,
+      "num_assets": 10,
+      "portfolio_data": [
+        {
+          "id": "ASSET_001",
+          "type": "Fleet Vehicle",
+          "value": 218543.0534813131,
+          "weight": 0.1629257548033025,
+          "risk_score": 0.6391963650868431,
+          "liquidity_factor": 0.8095304694689628,
+          "expected_yield": 0.04404167763981928
+        },
+        {
+          "id": "ASSET_002",
+          "type": "Charging Station",
+          "value": 120197.5341512912,
+          "weight": 0.06267684364461297,
+          "risk_score": 0.7197056874649612,
+          "liquidity_factor": 0.8103902541101231,
+          "expected_yield": 0.09372653200164409
+        },
+        {
+          "id": "ASSET_003",
+          "type": "Battery Storage",
+          "value": 59263.0224331111,
+          "weight": 0.1650815540304144,
+          "risk_score": 0.6994655844802531,
+          "liquidity_factor": 0.6743186887373966,
+          "expected_yield": 0.046364247048639055
+        },
+        {
+          "id": "ASSET_004",
+          "type": "Carbon Credits",
+          "value": 132532.02943404522,
+          "weight": 0.09032224601351603,
+          "risk_score": 0.5148538589793428,
+          "liquidity_factor": 0.7511807565247405,
+          "expected_yield": 0.056210622617823766
+        },
+        {
+          "id": "ASSET_005",
+          "type": "Infrastructure",
+          "value": 325333.80262507073,
+          "weight": 0.07181980592488332,
+          "risk_score": 0.3752867891211309,
+          "liquidity_factor": 0.7282266451527921,
+          "expected_yield": 0.07104629857953323
+        },
+        {
+          "id": "ASSET_006",
+          "type": "Fleet Vehicle",
+          "value": 403329.18262685614,
+          "weight": 0.07857844826548616,
+          "risk_score": 0.508540663048167,
+          "liquidity_factor": 0.8073450991017148,
+          "expected_yield": 0.034180537144799794
+        },
+        {
+          "id": "ASSET_007",
+          "type": "Charging Station",
+          "value": 323395.18335564726,
+          "weight": 0.07530472987195201,
+          "risk_score": 0.23903095579116773,
+          "liquidity_factor": 0.9321099380386666,
+          "expected_yield": 0.11690688297671034
+        },
+        {
+          "id": "ASSET_008",
+          "type": "Battery Storage",
+          "value": 413778.8066524075,
+          "weight": 0.09036397110614833,
+          "risk_score": 0.25860326840383036,
+          "liquidity_factor": 0.8394815592792548,
+          "expected_yield": 0.0696137244365641
+        },
+        {
+          "id": "ASSET_009",
+          "type": "Carbon Credits",
+          "value": 104917.20568015048,
+          "weight": 0.1117655961110254,
+          "risk_score": 0.22063311266913105,
+          "liquidity_factor": 0.9182621407275737,
+          "expected_yield": 0.05329019834400152
+        },
+        {
+          "id": "ASSET_010",
+          "type": "Infrastructure",
+          "value": 348135.0279592919,
+          "weight": 0.09116105022865877,
+          "risk_score": 0.5120408127066866,
+          "liquidity_factor": 0.7913485977701479,
+          "expected_yield": 0.046636900997297434
+        }
+      ]
+    },
+    {
+      "total_portfolio_value": 188619.9763820821,
+      "risk_adjusted_value": 188619.9763820821,
+      "blended_yield": 0.08388927469003854,
+      "correlation_adjustment": 1.270805020110221,
+      "sharpe_ratio": 0.4400846883799822,
+      "diversification_score": 0.270805020110221,
+      "average_risk_score": 0.4900346762906172,
+      "liquidity_score": 0.7885054108179739,
+      "num_assets": 15,
+      "portfolio_data": [
+        {
+          "id": "ASSET_001",
+          "type": "Fleet Vehicle",
+          "value": 218543.0534813131,
+          "weight": 0.11264396217564203,
+          "risk_score": 0.6391963650868431,
+          "liquidity_factor": 0.8095304694689628,
+          "expected_yield": 0.04404167763981928
+        },
+        {
+          "id": "ASSET_002",
+          "type": "Charging Station",
+          "value": 120197.5341512912,
+          "weight": 0.04333365227195684,
+          "risk_score": 0.7197056874649612,
+          "liquidity_factor": 0.8103902541101231,
+          "expected_yield": 0.09372653200164409
+        },
+        {
+          "id": "ASSET_003",
+          "type": "Battery Storage",
+          "value": 59263.0224331111,
+          "weight": 0.11413444332695076,
+          "risk_score": 0.6994655844802531,
+          "liquidity_factor": 0.6743186887373966,
+          "expected_yield": 0.046364247048639055
+        },
+        {
+          "id": "ASSET_004",
+          "type": "Carbon Credits",
+          "value": 132532.02943404522,
+          "weight": 0.06244719059824973,
+          "risk_score": 0.5148538589793428,
+          "liquidity_factor": 0.7511807565247405,
+          "expected_yield": 0.056210622617823766
+        },
+        {
+          "id": "ASSET_005",
+          "type": "Infrastructure",
+          "value": 325333.80262507073,
+          "weight": 0.04965493338871751,
+          "risk_score": 0.3752867891211309,
+          "liquidity_factor": 0.7282266451527921,
+          "expected_yield": 0.07104629857953323
+        },
+        {
+          "id": "ASSET_006",
+          "type": "Fleet Vehicle",
+          "value": 403329.18262685614,
+          "weight": 0.0543277382076529,
+          "risk_score": 0.508540663048167,
+          "liquidity_factor": 0.8073450991017148,
+          "expected_yield": 0.034180537144799794
+        },
+        {
+          "id": "ASSET_007",
+          "type": "Charging Station",
+          "value": 323395.18335564726,
+          "weight": 0.052064347675320144,
+          "risk_score": 0.23903095579116773,
+          "liquidity_factor": 0.9321099380386666,
+          "expected_yield": 0.11690688297671034
+        },
+        {
+          "id": "ASSET_008",
+          "type": "Battery Storage",
+          "value": 413778.8066524075,
+          "weight": 0.062476038583406654,
+          "risk_score": 0.25860326840383036,
+          "liquidity_factor": 0.8394815592792548,
+          "expected_yield": 0.0696137244365641
+        },
+        {
+          "id": "ASSET_009",
+          "type": "Carbon Credits",
+          "value": 104917.20568015048,
+          "weight": 0.07727274055638277,
+          "risk_score": 0.22063311266913105,
+          "liquidity_factor": 0.9182621407275737,
+          "expected_yield": 0.05329019834400152
+        },
+        {
+          "id": "ASSET_010",
+          "type": "Infrastructure",
+          "value": 348135.0279592919,
+          "weight": 0.06302712487811468,
+          "risk_score": 0.5120408127066866,
+          "liquidity_factor": 0.7913485977701479,
+          "expected_yield": 0.046636900997297434
+        },
+        {
+          "id": "ASSET_011",
+          "type": "Fleet Vehicle",
+          "value": 486313.08249405137,
+          "weight": 0.09901054459100578,
+          "risk_score": 0.7636993649385135,
+          "liquidity_factor": 0.913189572649677,
+          "expected_yield": 0.08381099809299766
+        },
+        {
+          "id": "ASSET_012",
+          "type": "Charging Station",
+          "value": 464843.40576040256,
+          "weight": 0.04569481864822413,
+          "risk_score": 0.3175897174514871,
+          "liquidity_factor": 0.6158295511186883,
+          "expected_yield": 0.05927972976869379
+        },
+        {
+          "id": "ASSET_013",
+          "type": "Battery Storage",
+          "value": 224904.78036026692,
+          "weight": 0.059893123529179346,
+          "risk_score": 0.6972425054911577,
+          "liquidity_factor": 0.7248636643427562,
+          "expected_yield": 0.05528410587186426
+        },
+        {
+          "id": "ASSET_014",
+          "type": "Carbon Credits",
+          "value": 294213.2374212118,
+          "weight": 0.049765997230822076,
+          "risk_score": 0.6813181884524239,
+          "liquidity_factor": 0.6260927252879198,
+          "expected_yield": 0.11881982429404656
+        },
+        {
+          "id": "ASSET_015",
+          "type": "Infrastructure",
+          "value": 397510.1461834958,
+          "weight": 0.05425334433837447,
+          "risk_score": 0.20331327027416146,
+          "liquidity_factor": 0.885411499959192,
+          "expected_yield": 0.09361716094628554
+        }
+      ]
+    }
+  ],
+  "cross_border_data": [
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 3.8749999999999996,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.0,
+      "governance_score": 0.6649999999999999,
+      "value_per_gb": 3.8749999999999996,
+      "processing_cost_ratio": 0.9687499999999999
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 4.25,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.0,
+      "governance_score": 0.76,
+      "value_per_gb": 4.25,
+      "processing_cost_ratio": 1.0625
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 4.625,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.0,
+      "governance_score": 0.855,
+      "value_per_gb": 4.625,
+      "processing_cost_ratio": 1.15625
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 4.8125,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.0,
+      "governance_score": 0.9025,
+      "value_per_gb": 4.8125,
+      "processing_cost_ratio": 1.203125
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 4.2334375,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.0,
+      "governance_score": 0.6649999999999999,
+      "value_per_gb": 4.2334375,
+      "processing_cost_ratio": 1.058359375
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 4.643125,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.0,
+      "governance_score": 0.76,
+      "value_per_gb": 4.643125,
+      "processing_cost_ratio": 1.16078125
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 5.0528125,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.0,
+      "governance_score": 0.855,
+      "value_per_gb": 5.0528125,
+      "processing_cost_ratio": 1.263203125
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 5.257656249999999,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.0,
+      "governance_score": 0.9025,
+      "value_per_gb": 5.257656249999999,
+      "processing_cost_ratio": 1.3144140624999998
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 4.96,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.0,
+      "governance_score": 0.6649999999999999,
+      "value_per_gb": 4.96,
+      "processing_cost_ratio": 1.24
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 5.440000000000001,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.0,
+      "governance_score": 0.76,
+      "value_per_gb": 5.440000000000001,
+      "processing_cost_ratio": 1.3600000000000003
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 5.920000000000001,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.0,
+      "governance_score": 0.855,
+      "value_per_gb": 5.920000000000001,
+      "processing_cost_ratio": 1.4800000000000002
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 6.16,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.0,
+      "governance_score": 0.9025,
+      "value_per_gb": 6.16,
+      "processing_cost_ratio": 1.54
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 5.008437499999999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.0,
+      "governance_score": 0.6649999999999999,
+      "value_per_gb": 5.008437499999999,
+      "processing_cost_ratio": 1.2521093749999999
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 5.493125,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.0,
+      "governance_score": 0.76,
+      "value_per_gb": 5.493125,
+      "processing_cost_ratio": 1.37328125
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 5.9778125,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.0,
+      "governance_score": 0.855,
+      "value_per_gb": 5.9778125,
+      "processing_cost_ratio": 1.494453125
+    },
+    {
+      "data_volume_gb": 1,
+      "base_value": 2.5,
+      "adjusted_value": 6.220156249999999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.0,
+      "governance_score": 0.9025,
+      "value_per_gb": 6.220156249999999,
+      "processing_cost_ratio": 1.5550390624999997
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 48.43749999999999,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 4.843749999999999,
+      "processing_cost_ratio": 1.2109374999999998
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 53.12500000000001,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 5.312500000000001,
+      "processing_cost_ratio": 1.3281250000000002
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 57.8125,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 5.78125,
+      "processing_cost_ratio": 1.4453125
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 60.15624999999999,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 6.015624999999999,
+      "processing_cost_ratio": 1.5039062499999998
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 52.91796874999999,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 5.291796874999999,
+      "processing_cost_ratio": 1.3229492187499998
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 58.0390625,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 5.80390625,
+      "processing_cost_ratio": 1.4509765625
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 63.160156249999986,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 6.316015624999999,
+      "processing_cost_ratio": 1.5790039062499996
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 65.72070312499999,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 6.572070312499998,
+      "processing_cost_ratio": 1.6430175781249996
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 61.99999999999999,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 6.199999999999999,
+      "processing_cost_ratio": 1.5499999999999998
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 68.0,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 6.8,
+      "processing_cost_ratio": 1.7
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 74.0,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 7.4,
+      "processing_cost_ratio": 1.85
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 77.0,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 7.7,
+      "processing_cost_ratio": 1.925
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 62.60546874999999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 6.260546874999999,
+      "processing_cost_ratio": 1.5651367187499998
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 68.6640625,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 6.86640625,
+      "processing_cost_ratio": 1.7166015625
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 74.72265624999999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 7.472265624999999,
+      "processing_cost_ratio": 1.8680664062499996
+    },
+    {
+      "data_volume_gb": 10,
+      "base_value": 25.0,
+      "adjusted_value": 77.75195312499999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 7.775195312499998,
+      "processing_cost_ratio": 1.9437988281249996
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 484.37499999999994,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 4.843749999999999,
+      "processing_cost_ratio": 1.2109374999999998
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 531.2500000000001,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 5.312500000000001,
+      "processing_cost_ratio": 1.3281250000000002
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 578.125,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 5.78125,
+      "processing_cost_ratio": 1.4453125
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 601.5624999999999,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 6.015624999999999,
+      "processing_cost_ratio": 1.5039062499999998
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 529.1796874999999,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 5.291796874999999,
+      "processing_cost_ratio": 1.3229492187499998
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 580.3906250000001,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 5.803906250000001,
+      "processing_cost_ratio": 1.4509765625000002
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 631.6015625,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 6.316015625,
+      "processing_cost_ratio": 1.57900390625
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 657.20703125,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 6.5720703125,
+      "processing_cost_ratio": 1.643017578125
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 620.0,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 6.2,
+      "processing_cost_ratio": 1.55
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 680.0000000000001,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 6.800000000000001,
+      "processing_cost_ratio": 1.7000000000000002
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 740.0,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 7.4,
+      "processing_cost_ratio": 1.85
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 770.0,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 7.7,
+      "processing_cost_ratio": 1.925
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 626.0546874999999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 6.260546874999999,
+      "processing_cost_ratio": 1.5651367187499998
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 686.6406249999999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 6.866406249999999,
+      "processing_cost_ratio": 1.7166015624999997
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 747.2265624999999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 7.472265624999999,
+      "processing_cost_ratio": 1.8680664062499996
+    },
+    {
+      "data_volume_gb": 100,
+      "base_value": 250.0,
+      "adjusted_value": 777.5195312499999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 7.775195312499999,
+      "processing_cost_ratio": 1.9437988281249998
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 4843.749999999999,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 4.843749999999999,
+      "processing_cost_ratio": 1.2109374999999998
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 5312.5,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 5.3125,
+      "processing_cost_ratio": 1.328125
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 5781.25,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 5.78125,
+      "processing_cost_ratio": 1.4453125
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 6015.625,
+      "jurisdiction_factor": 1.0,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 6.015625,
+      "processing_cost_ratio": 1.50390625
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 5291.796874999999,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 5.291796874999999,
+      "processing_cost_ratio": 1.3229492187499998
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 5803.906250000001,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 5.803906250000001,
+      "processing_cost_ratio": 1.4509765625000002
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 6316.015625,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 6.316015625,
+      "processing_cost_ratio": 1.57900390625
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 6572.070312499999,
+      "jurisdiction_factor": 1.15,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 6.572070312499999,
+      "processing_cost_ratio": 1.6430175781249998
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 6200.0,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 6.2,
+      "processing_cost_ratio": 1.55
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 6800.000000000002,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 6.800000000000002,
+      "processing_cost_ratio": 1.7000000000000004
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 7400.0,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 7.4,
+      "processing_cost_ratio": 1.85
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 7699.999999999999,
+      "jurisdiction_factor": 1.6,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 7.699999999999999,
+      "processing_cost_ratio": 1.9249999999999998
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 6260.546874999999,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.5499999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 0.8312499999999999,
+      "value_per_gb": 6.260546874999999,
+      "processing_cost_ratio": 1.5651367187499998
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 6866.406250000001,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.7000000000000002,
+      "time_efficiency": 1.25,
+      "governance_score": 0.95,
+      "value_per_gb": 6.866406250000001,
+      "processing_cost_ratio": 1.7166015625000002
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 7472.265625,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.85,
+      "time_efficiency": 1.25,
+      "governance_score": 1.0687499999999999,
+      "value_per_gb": 7.472265625,
+      "processing_cost_ratio": 1.86806640625
+    },
+    {
+      "data_volume_gb": 1000,
+      "base_value": 2500.0,
+      "adjusted_value": 7775.195312499998,
+      "jurisdiction_factor": 2.3499999999999996,
+      "compliance_multiplier": 1.9249999999999998,
+      "time_efficiency": 1.25,
+      "governance_score": 1.128125,
+      "value_per_gb": 7.775195312499998,
+      "processing_cost_ratio": 1.9437988281249996
+    }
+  ],
+  "sodium_optimization": [
+    {
+      "li_ion_ratio": 1.0,
+      "sodium_ion_ratio": 0.0,
+      "blended_performance": 0.6,
+      "total_cost": 15000.0,
+      "cost_per_kwh": 150.0,
+      "performance_cost_ratio": 4.0,
+      "meets_performance_target": false,
+      "optimization_score": 3.2,
+      "alpha_weight": 0.6,
+      "beta_weight": 0.3,
+      "gamma_weight": 0.1,
+      "na_ratio_input": 0.0
+    },
+    {
+      "li_ion_ratio": 0.8,
+      "sodium_ion_ratio": 0.2,
+      "blended_performance": 0.529,
+      "total_cost": 13600.0,
+      "cost_per_kwh": 136.0,
+      "performance_cost_ratio": 3.8897058823529416,
+      "meets_performance_target": false,
+      "optimization_score": 3.1117647058823534,
+      "alpha_weight": 0.6,
+      "beta_weight": 0.3,
+      "gamma_weight": 0.1,
+      "na_ratio_input": 0.2
+    },
+    {
+      "li_ion_ratio": 0.6,
+      "sodium_ion_ratio": 0.4,
+      "blended_performance": 0.45799999999999996,
+      "total_cost": 12200.0,
+      "cost_per_kwh": 122.0,
+      "performance_cost_ratio": 3.7540983606557377,
+      "meets_performance_target": false,
+      "optimization_score": 3.00327868852459,
+      "alpha_weight": 0.6,
+      "beta_weight": 0.3,
+      "gamma_weight": 0.1,
+      "na_ratio_input": 0.4
+    },
+    {
+      "li_ion_ratio": 0.4,
+      "sodium_ion_ratio": 0.6,
+      "blended_performance": 0.383,
+      "total_cost": 10800.0,
+      "cost_per_kwh": 108.0,
+      "performance_cost_ratio": 3.5462962962962967,
+      "meets_performance_target": false,
+      "optimization_score": 2.8370370370370375,
+      "alpha_weight": 0.6,
+      "beta_weight": 0.3,
+      "gamma_weight": 0.1,
+      "na_ratio_input": 0.6
+    },
+    {
+      "li_ion_ratio": 0.19999999999999996,
+      "sodium_ion_ratio": 0.8,
+      "blended_performance": 0.30399999999999994,
+      "total_cost": 9400.0,
+      "cost_per_kwh": 94.0,
+      "performance_cost_ratio": 3.2340425531914887,
+      "meets_performance_target": false,
+      "optimization_score": 2.5872340425531912,
+      "alpha_weight": 0.6,
+      "beta_weight": 0.3,
+      "gamma_weight": 0.1,
+      "na_ratio_input": 0.8
+    }
+  ]
+}

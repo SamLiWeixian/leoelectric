@@ -1,0 +1,66 @@
+{
+  "deployment_specs": {
+    "fleet_size": 5000,
+    "vehicle_types": [
+      "delivery",
+      "rideshare",
+      "transit"
+    ],
+    "infrastructure": [
+      "charging_stations",
+      "swap_stations",
+      "data_network"
+    ]
+  },
+  "financial_results": {
+    "carbon_revenue": 972000.0,
+    "data_revenue": 3146000.0,
+    "battery_savings": 0.0,
+    "asset_premium": 168361250.0,
+    "sodium_savings": 6713777.777777777
+  },
+  "patent_portfolio": {
+    "carbon_credits": {
+      "title": "Automated Carbon Credit Generation from EV Charging",
+      "description": "Patent-pending system that automatically calculates, validates, and monetizes carbon credits from electric vehicle charging sessions",
+      "technical_details": "Uses real-time energy source tracking, emission factor calculations, and blockchain verification",
+      "business_impact": "Creates new revenue stream worth $50-200 per vehicle annually",
+      "patent_status": "Provisional filed, full application pending"
+    },
+    "degradation_aware": {
+      "title": "AI-Driven Battery Degradation Prediction and Optimization",
+      "description": "Machine learning system that predicts battery degradation and optimizes charging patterns for maximum lifespan",
+      "technical_details": "Combines battery chemistry models, usage patterns, and environmental factors for predictive analytics",
+      "business_impact": "Extends battery life by 15-25%, reducing replacement costs",
+      "patent_status": "Core algorithms protected, hardware integration pending"
+    },
+    "swap_integrity": {
+      "title": "Real-Time Battery Swap Station Integrity Monitoring",
+      "description": "IoT-enabled system for monitoring battery health, safety, and performance in swap stations",
+      "technical_details": "Multi-sensor fusion with predictive maintenance algorithms",
+      "business_impact": "Reduces downtime by 40%, ensures 99.9% station reliability",
+      "patent_status": "Hardware and software patents filed"
+    },
+    "asset_valuation": {
+      "title": "Dynamic Blended Asset Valuation for EV Ecosystems",
+      "description": "Novel valuation methodology treating EV, battery, and software as integrated financial instruments",
+      "technical_details": "Real-time asset tracking with depreciation models and market value algorithms",
+      "business_impact": "Enables new financing models and insurance products",
+      "patent_status": "Business method patent application submitted"
+    },
+    "cross_border": {
+      "title": "Cross-Border EV Data Intelligence Platform",
+      "description": "Secure, privacy-compliant system for aggregating and monetizing international EV usage data",
+      "technical_details": "Federated learning with differential privacy and regulatory compliance automation",
+      "business_impact": "Creates global data marketplace worth $10-50M annually",
+      "patent_status": "Multiple jurisdictions, privacy-tech focus"
+    },
+    "sodium_ion": {
+      "title": "Next-Generation Sodium-Ion Battery Optimization",
+      "description": "Advanced control algorithms specifically designed for sodium-ion battery characteristics",
+      "technical_details": "Adaptive charging protocols accounting for sodium-ion chemistry differences",
+      "business_impact": "Enables cost-effective alternative to lithium with 30% cost reduction",
+      "patent_status": "Chemistry and control system patents pending"
+    }
+  }
+}
